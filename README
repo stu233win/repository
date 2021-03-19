@@ -1,3 +1,4 @@
 https://github.com/envoyproxy/protoc-gen-validate
 https://golang.org/doc/effective_go#embedding
 https://github.com/grpc/grpc-go/blob/master/cmd/protoc-gen-go-grpc/README.md
+https://developers.google.com/protocol-buffers/docs/proto3
