@@ -14,3 +14,5 @@ https://github.com/grpc/grpc-go/blob/master/codegen.sh
 
 https://github.com/golang/protobuf/issues/1070
 https://github.com/golang/protobuf/issues/903
+
+https://github.com/envoyproxy/envoy/blob/main/tools/api/generate_go_protobuf.py
