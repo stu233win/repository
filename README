@@ -28,3 +28,9 @@ https://github.com/golang/protobuf/issues/903
 
 https://github.com/envoyproxy/envoy/blob/main/tools/api/generate_go_protobuf.py
 https://github.com/istio/api/blob/master/GUIDELINES.md
+
+
+new api
+https://github.com/istio/istio/blob/master/manifests/charts/base/crds/crd-all.gen.yaml
+https://github.com/istio/api/blob/master/kubernetes/customresourcedefinitions.gen.yaml
+https://github.com/istio/client-go/blob/master/go.mod
