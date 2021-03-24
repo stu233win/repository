@@ -34,3 +34,12 @@ new api
 https://github.com/istio/istio/blob/master/manifests/charts/base/crds/crd-all.gen.yaml
 https://github.com/istio/api/blob/master/kubernetes/customresourcedefinitions.gen.yaml
 https://github.com/istio/client-go/blob/master/go.mod
+
+https://blog.csdn.net/zhonglinzhang/article/details/86551795
+https://zhaohuabing.com/post/2019-10-21-pilot-discovery-code-analysis/
+https://github.com/jukylin/blog/blob/master/istio%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E2%80%94%E2%80%94pilot-agent%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86envoy%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md
+https://mp.weixin.qq.com/s/4sI1wpk97RvW3rL88kruGA
+
+
+https://chai2010.cn/advanced-go-programming-book/
+https://www.bookstack.cn/read/golang_development_notes/zh-preface.md
