@@ -61,3 +61,9 @@ https://pkg.go.dev/golang.org/x/sys
 https://golang.org/pkg/syscall/#pkg-subdirectories
 https://golang.org/pkg/net/http/#Server.Shutdown
 https://github.com/istio/istio/blob/master/pkg/cmd/cmd.go
+
+
+
+
+
+https://linux.die.net/man/8/logrotate
