@@ -42,6 +42,8 @@ new api
 https://github.com/istio/istio/blob/master/manifests/charts/base/crds/crd-all.gen.yaml
 https://github.com/istio/api/blob/master/kubernetes/customresourcedefinitions.gen.yaml
 https://github.com/istio/client-go/blob/master/go.mod
+https://docs.google.com/document/d/1S5ygkxR1alNI8cWGG4O4iV8zp8dA6Oc23zQCvFxr83U/edit#heading=h.x9snb54sjlu9
+https://docs.google.com/document/d/1o2-V4TLJ8fJACXdlsnxKxDv2Luryo48bAhR8ShxE5-k/edit#heading=h.qex63c29z2to
 
 https://blog.csdn.net/zhonglinzhang/article/details/86551795
 https://zhaohuabing.com/post/2019-10-21-pilot-discovery-code-analysis/
