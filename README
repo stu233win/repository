@@ -71,3 +71,6 @@ https://github.com/istio/istio/blob/master/pkg/cmd/cmd.go
 
 
 https://linux.die.net/man/8/logrotate
+
+
+非 Kubernetes 环境的支持、多租户隔离、与 Spring Cloud 服务框架的互通、海量服务实例下的域名解析
