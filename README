@@ -28,6 +28,7 @@ http://www.xytschool.com/resource/282.html
 https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/
 
 https://istio.io/latest/docs/ops/diagnostic-tools/istioctl/
+https://istio.io/latest/docs/ops/best-practices/security/#configure-third-party-service-account-tokens
 
 
 
