@@ -68,7 +68,10 @@ https://github.com/istio/istio/blob/master/pkg/cmd/cmd.go
 
 
 
-
+dlv
+https://github.com/go-delve/delve/blob/master/Documentation/installation/osx/install.md
+https://github.com/go-delve/delve
+dlv exec 二进制/debug go文件/attch 进程
 
 https://linux.die.net/man/8/logrotate
 
