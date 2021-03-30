@@ -34,6 +34,9 @@ https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-regi
 https://kubernetes.io/zh/docs/tasks/configure-pod-container/pull-image-private-registry/
 
 
+
+
+
 https://github.com/envoyproxy/envoy/blob/main/support/README.md
 https://github.com/envoyproxy/envoy/blob/main/bazel/README.md#macos
 
@@ -92,3 +95,6 @@ https://linux.die.net/man/8/logrotate
 
 
 非 Kubernetes 环境的支持、多租户隔离、与 Spring Cloud 服务框架的互通、海量服务实例下的域名解析
+
+
+https://leetcode-cn.com/circle/discuss/XXGdoF/
