@@ -29,6 +29,7 @@ https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resou
 
 https://istio.io/latest/docs/ops/diagnostic-tools/istioctl/
 https://istio.io/latest/docs/ops/best-practices/security/#configure-third-party-service-account-tokens
+https://www.solo.io/wp-content/uploads/2021/01/Extending-Istio-with-the-EnvoyFilter-CRD.pdf
 
 https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
 https://kubernetes.io/zh/docs/tasks/configure-pod-container/pull-image-private-registry/
