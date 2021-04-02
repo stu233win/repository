@@ -94,6 +94,7 @@ https://github.com/go-delve/delve
 dlv exec 二进制/debug go文件/attch 进程
 
 https://linux.die.net/man/8/logrotate
+https://nacos.io/zh-cn/docs/use-nacos-with-dubbo.html
 
 
 非 Kubernetes 环境的支持、多租户隔离、与 Spring Cloud 服务框架的互通、海量服务实例下的域名解析
@@ -106,3 +107,6 @@ http://tengine.taobao.org/
 
 xinyangshi  yuanwomenzaish
 https://travis-ci.org/?spm=ata.21736010.0.0.158c39fbxxImUq
+
+
+https://nacos.io/zh-cn/docs/use-nacos-with-dubbo.html
