@@ -51,7 +51,8 @@ https://docs.google.com/spreadsheets/d/1DnsHtdHbxjvHmxvlu7VhzWcWgLAn_Mc5L1WlhLDA
 
 https://github.com/envoyproxy/envoy/blob/main/support/README.md
 https://github.com/envoyproxy/envoy/blob/main/bazel/README.md#macos
-
+stats
+https://www.envoyproxy.io/docs/envoy/latest/api-v2/config/metrics/v2/stats.proto#envoy-api-field-config-metrics-v2-statssink-config
 
 https://github.com/golang/protobuf/issues/1070
 https://github.com/golang/protobuf/issues/903
