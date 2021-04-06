@@ -33,6 +33,9 @@ https://istio.io/latest/docs/ops/best-practices/security/#configure-third-party-
 https://www.solo.io/wp-content/uploads/2021/01/Extending-Istio-with-the-EnvoyFilter-CRD.pdf
 
 https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
+
+docker
+https://docs.docker.com/engine/reference/builder/
 https://kubernetes.io/zh/docs/tasks/configure-pod-container/pull-image-private-registry/
 https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-em-secret-docker-registry-em-
 
