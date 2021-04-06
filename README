@@ -38,6 +38,7 @@ docker
 https://docs.docker.com/engine/reference/builder/
 https://kubernetes.io/zh/docs/tasks/configure-pod-container/pull-image-private-registry/
 https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-em-secret-docker-registry-em-
+https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 
 
 https://www.cnblogs.com/lovychen/p/10911699.html
@@ -136,3 +137,4 @@ https://www.envoyproxy.io/docs/envoy/latest/api-v2/api/v2/discovery.proto#envoy-
 
 https://www.cnblogs.com/52fhy/p/12376940.html
 https://www.cnblogs.com/xinliangcoder/p/11825748.html
+
