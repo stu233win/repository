@@ -40,6 +40,7 @@ https://docs.docker.com/engine/reference/builder/
 https://kubernetes.io/zh/docs/tasks/configure-pod-container/pull-image-private-registry/
 https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-em-secret-docker-registry-em-
 https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+https://www.runoob.com/docker/docker-dockerfile.html
 
 
 https://www.cnblogs.com/lovychen/p/10911699.html
