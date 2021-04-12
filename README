@@ -35,6 +35,9 @@ https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resou
 https://istio.io/latest/docs/ops/diagnostic-tools/istioctl/
 https://istio.io/latest/docs/ops/best-practices/security/#configure-third-party-service-account-tokens
 https://www.solo.io/wp-content/uploads/2021/01/Extending-Istio-with-the-Filter-CRD.pdf
+https://zhaohuabing.com/post/2020-12-07-cnbps2020-istio-traffic-management/#undefined
+https://zhaohuabing.com/post/2021-03-02-manage-any-layer-7-traffic-in-istio/#undefined
+https://www.bilibili.com/s/video/BV1av411t7JL
 
 https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
 
