@@ -213,3 +213,4 @@ https://dubbo.apache.org/zh/docs/v3.0/references/routerule/
 
 go 
 https://blog.golang.org/maps
+https://golang.org/doc/faq#atomic_maps
