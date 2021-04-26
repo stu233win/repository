@@ -228,6 +228,7 @@ update istio go.mod istio/api,istio/client-go to latest
 go mod vendo/tidy to update vendor
 update metadata.yaml
 update crdclient/gen/main.go make go-gen/make gen
+https://istio.io/latest/blog/2020/dns-proxy/
 
 
 http://c.biancheng.net/view/1369.html
