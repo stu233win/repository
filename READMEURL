@@ -229,6 +229,8 @@ go mod vendo/tidy to update vendor
 update metadata.yaml
 update crdclient/gen/main.go make go-gen/make gen
 https://istio.io/latest/blog/2020/dns-proxy/
+mcp
+https://nacos.io/en-us/blog/pilot%20mcp.html
 
 
 http://c.biancheng.net/view/1369.html
