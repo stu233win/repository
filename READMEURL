@@ -39,6 +39,7 @@ https://kubernetes.io/docs/concepts/cluster-administration/logging/
 https://zhuanlan.zhihu.com/p/353613570
 https://istio.io/latest/docs/reference/config/networking/destination-rule/#OutlierDetection
 https://istio.io/latest/docs/reference/config/networking/envoy-filter/
+https://aleiwu.com/post/tidb-opeartor-webhook/
 
 https://istio.io/latest/docs/ops/diagnostic-tools/istioctl/
 https://istio.io/latest/docs/ops/best-practices/security/#configure-third-party-service-account-tokens
