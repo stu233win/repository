@@ -37,6 +37,8 @@ https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resou
 https://zdyxry.github.io/2019/05/17/Kubernetes-%E5%AE%9E%E6%88%98-%E6%97%A5%E5%BF%97%E5%A4%84%E7%90%86/
 https://kubernetes.io/docs/concepts/cluster-administration/logging/
 https://zhuanlan.zhihu.com/p/353613570
+https://istio.io/latest/docs/reference/config/networking/destination-rule/#OutlierDetection
+https://istio.io/latest/docs/reference/config/networking/envoy-filter/
 
 https://istio.io/latest/docs/ops/diagnostic-tools/istioctl/
 https://istio.io/latest/docs/ops/best-practices/security/#configure-third-party-service-account-tokens
