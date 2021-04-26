@@ -233,3 +233,6 @@ update crdclient/gen/main.go make go-gen/make gen
 http://c.biancheng.net/view/1369.html
 
 https://www.amqp.org/resources/download
+
+nacos
+https://nacos.io/zh-cn/docs/nacos-dev.html
