@@ -42,6 +42,5 @@ https://kubernetes.io/zh/docs/concepts/workloads/controllers/statefulset/#rollin
 https://openkruise.io/en-us/docs/sidecarset.html
 
 https://kubernetes.io/zh/docs/tasks/inject-data-application/define-command-argument-container/#notes
-
-
 https://aws.amazon.com/cn/blogs/china/demystifying-entrypoint-cmd-docker/
+https://docs.docker.com/engine/reference/builder/#entrypoint
