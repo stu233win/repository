@@ -36,3 +36,6 @@ https://kubernetes.io/docs/concepts/services-networking/ingress/
 hash
 https://gongfukangee.github.io/2019/05/19/Hash/#%E4%B8%80%E8%87%B4%E6%80%A7-hash-%E5%9C%A8-dubbo-%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8
 https://www.cnkirito.moe/consistent-hash-lb/
+
+kubernetes upgrade
+https://kubernetes.io/zh/docs/concepts/workloads/controllers/statefulset/#rolling-updates
