@@ -39,3 +39,4 @@ https://www.cnkirito.moe/consistent-hash-lb/
 
 kubernetes upgrade
 https://kubernetes.io/zh/docs/concepts/workloads/controllers/statefulset/#rolling-updates
+https://openkruise.io/en-us/docs/sidecarset.html
