@@ -40,6 +40,7 @@ https://www.cnkirito.moe/consistent-hash-lb/
 kubernetes upgrade，Batch, grayscale, rollback
 https://kubernetes.io/zh/docs/concepts/workloads/controllers/statefulset/#rolling-updates
 https://openkruise.io/en-us/docs/sidecarset.html
+https://kubernetes.io/zh/docs/tasks/inject-data-application/define-command-argument-container/#notes
 
 
 https://aws.amazon.com/cn/blogs/china/demystifying-entrypoint-cmd-docker/
