@@ -57,3 +57,6 @@ envoyfilter
 https://github.com/osswangxining/istio_ext_authz_filter_sample/blob/master/extauth-sample-grpc-service.yaml?spm=ata.21736010.0.0.4e365345tKHzNs&file=extauth-sample-grpc-service.yaml
 https://github.com/envoyproxy/envoy/blob/main/api/envoy/service/auth/v2alpha/external_auth.proto
 https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/security/ext_authz_filter?spm=ata.21736010.0.0.4e365345tKHzNs
+
+opa
+https://www.openpolicyagent.org/?spm=ata.21736010.0.0.5ef05617PAf6ZQ
