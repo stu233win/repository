@@ -20,6 +20,7 @@ https://kubernetes.io/docs/concepts/services-networking/service/
 ingress& egress
 https://istio.io/latest/zh/docs/tasks/traffic-management/ingress/ingress-control/
 https://istio.io/latest/zh/docs/reference/config/networking/gateway/#Gateway
+https://istio.io/latest/zh/docs/tasks/traffic-management/ingress/secure-ingress-mount/
 
 envoy
 https://www.servicemesher.com/envoy/configuration/overview/v2_overview.html?spm=ata.21736010.0.0.4ec95503eYCHS4
