@@ -65,3 +65,6 @@ opa
 https://www.openpolicyagent.org/?spm=ata.21736010.0.0.5ef05617PAf6ZQ
 
 https://istio.io/latest/docs/ops/configuration/traffic-management/tls-configuration/
+https://istio.io/v1.4/docs/tasks/security/authentication/mutual-tls/
+https://istio.io/v1.4/docs/tasks/traffic-management/egress/egress-tls-origination/
+https://istio.io/latest/docs/tasks/traffic-management/egress/egress-gateway-tls-origination/
