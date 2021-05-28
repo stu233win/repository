@@ -72,3 +72,4 @@ https://istio.io/latest/docs/tasks/traffic-management/egress/egress-gateway-tls-
 
 https://www.envoyproxy.io/docs/envoy/latest/start/sandboxes/wasm-cc
 https://github.com/envoyproxy/envoy/tree/main/examples/wasm-cc
+https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/http_filters
