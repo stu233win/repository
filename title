@@ -68,3 +68,7 @@ https://istio.io/latest/docs/ops/configuration/traffic-management/tls-configurat
 https://istio.io/v1.4/docs/tasks/security/authentication/mutual-tls/
 https://istio.io/v1.4/docs/tasks/traffic-management/egress/egress-tls-origination/
 https://istio.io/latest/docs/tasks/traffic-management/egress/egress-gateway-tls-origination/
+
+
+https://www.envoyproxy.io/docs/envoy/latest/start/sandboxes/wasm-cc
+https://github.com/envoyproxy/envoy/tree/main/examples/wasm-cc
