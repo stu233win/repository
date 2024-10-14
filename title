@@ -83,3 +83,4 @@ https://github.com/kubernetes/design-proposals-archive/blob/main/scheduling/sche
 https://medium.com/@juliorenner123/k8s-creating-a-kube-scheduler-plugin-8a826c486a1
 https://brunoscheufler.com/blog/2023-04-23-extending-the-kubernetes-scheduler
 https://duyanghao.github.io/scheduler-extend/
+https://koordinator.sh/docs/designs/enhanced-scheduler-extension/
