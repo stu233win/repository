@@ -93,6 +93,7 @@ https://github.com/tencentyun/qcloud-documents/blob/master/product/%E8%AE%A1%E7%
 https://cloud.baidu.com/doc/CCE/s/2krvywwpo
 https://github.com/kubernetes/enhancements/tree/master/keps/sig-scheduling/1819-scheduler-extender
 https://cloud.tencent.com/document/product/457/50843
+https://github.com/rfyiamcool/notes/blob/main/kubernetes_scheduler_code.md
 
 linux core
 https://www.cnblogs.com/wangjq19920210/p/17248136.html
@@ -131,4 +132,5 @@ https://arthurchiao.art/blog/conntrack-design-and-implementation-zh/
 
 hpa
 https://midbai.com/post/why-hpa-scale-slowly/
+
 
