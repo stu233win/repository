@@ -126,6 +126,8 @@ https://maimai.cn/article/detail?fid=1716626083&efid=exAQgZXTj-4Tzk8rKYSjiA
 kubelet
 http://www.xuyasong.com/?p=1792
 https://kubernetes.io/blog/2024/01/23/kubernetes-separate-image-filesystem/
+https://kubernetes.io/docs/concepts/scheduling-eviction/node-pressure-eviction/
+
 ipvs
 https://llussy.github.io/2019/12/12/kube-proxy-IPVS/
 
