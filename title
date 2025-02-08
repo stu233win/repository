@@ -128,6 +128,9 @@ kubelet
 http://www.xuyasong.com/?p=1792
 https://kubernetes.io/blog/2024/01/23/kubernetes-separate-image-filesystem/
 https://kubernetes.io/docs/concepts/scheduling-eviction/node-pressure-eviction/
+node life 
+https://www.cnblogs.com/gaorong/p/12312590.html
+https://leohsiao.com/Container/k8s/principle/%E5%8E%9F%E7%90%86.html
 
 ipvs
 https://llussy.github.io/2019/12/12/kube-proxy-IPVS/
@@ -167,3 +170,5 @@ java
 https://www.xlabs.club/blog/java-memory/
 ai
 https://imroc.cc/tke/ai/llm
+
+
