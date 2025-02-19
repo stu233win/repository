@@ -175,9 +175,12 @@ https://www.xlabs.club/blog/java-memory/
 ai
 https://imroc.cc/tke/ai/llm
 
-client
+k8s client
 https://blog.csdn.net/weixin_40449300/article/details/106320558
 https://mozillazg.com/2020/07/k8s-kubernetes-client-go-list-get-create-update-patch-delete-crd-resource-without-generate-client-code-update-or-create-via-yaml.html
+
+chat gpt api
+sse server-send events
 
 
 tool
