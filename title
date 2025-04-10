@@ -187,3 +187,9 @@ tool
 axure
 
 
+wget https://github.com/projectcalico/calico/releases/download/v3.29.3/release-v3.29.3.tgz 
+tar xf release-v3.25.0.tgz cd release-v3.29.3/images/ 
+docker load -i calico-cni.tar 
+docker load -i calico-node.tar 
+docker load -i calico-kube-controllers.tar
+
