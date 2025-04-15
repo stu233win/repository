@@ -187,9 +187,15 @@ tool
 axure
 
 
-wget https://github.com/projectcalico/calico/releases/download/v3.29.3/release-v3.29.3.tgz 
+kubeadm 1.31 https://juejin.cn/post/7475350318415790121#heading-9
+kubeadm 1.31 calico wget https://github.com/projectcalico/calico/releases/download/v3.29.3/release-v3.29.3.tgz 
 tar xf release-v3.25.0.tgz cd release-v3.29.3/images/ 
 docker load -i calico-cni.tar 
 docker load -i calico-node.tar 
 docker load -i calico-kube-controllers.tar
+ctr images -n k8s.io load -i calico-cni.tar
+ctr images -n k8s.io load -i  calico-node.tar 
+ctr images -n k8s.io load -i  calico-kube-controllers.tar
+
+
 
