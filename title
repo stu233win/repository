@@ -196,6 +196,8 @@ docker load -i calico-kube-controllers.tar
 ctr images -n k8s.io load -i calico-cni.tar
 ctr images -n k8s.io load -i  calico-node.tar 
 ctr images -n k8s.io load -i  calico-kube-controllers.tar
+runc是个坑，whereis runc /which is runc/runc --version
+可用containerd with runc
 
 k8s-code-generator
 https://kubeservice.cn/2025/01/23/k8s-code-generator/
