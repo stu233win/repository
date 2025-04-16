@@ -197,5 +197,7 @@ ctr images -n k8s.io load -i calico-cni.tar
 ctr images -n k8s.io load -i  calico-node.tar 
 ctr images -n k8s.io load -i  calico-kube-controllers.tar
 
+k8s-code-generator
+https://kubeservice.cn/2025/01/23/k8s-code-generator/
 
 
