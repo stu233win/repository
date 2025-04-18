@@ -211,4 +211,6 @@ https://cast.ai/blog/custom-kube-scheduler-why-and-how-to-set-it-up-in-kubernete
 
 https://k8s.iswbm.com/c03/p03_kubernetes-node-and-pod-affinity.html
 
+in tree plugin
+https://github.com/kubernetes/community/blob/master/contributors/devel/sig-scheduling/scheduler_framework_plugins.md
 
