@@ -214,4 +214,5 @@ https://k8s.iswbm.com/c03/p03_kubernetes-node-and-pod-affinity.html
 in tree plugin
 https://github.com/kubernetes/community/blob/master/contributors/devel/sig-scheduling/scheduler_framework_plugins.md
 新sample-controller code-generator update-codegen.sh依赖坑
+https://www.zeng.dev/post/2023-k8s-api-codegen/
 
