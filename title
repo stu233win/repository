@@ -217,4 +217,5 @@ https://github.com/kubernetes/community/blob/master/contributors/devel/sig-sched
 https://www.zeng.dev/post/2023-k8s-api-codegen/
 https://github.com/Seaiii/MutatingWebhook/blob/master/main.go
 https://cloud.baidu.com/article/295431
+https://github.com/lixd/nodelocaldns-admission-webhook/blob/master/pkg/mutatingwebhook.go
 
