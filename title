@@ -225,3 +225,4 @@ lsblk
 blkid
 fdisk
 
+https://github.com/smarter-project/smarter-device-manager/blob/main/server.go
