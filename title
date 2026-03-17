@@ -233,3 +233,21 @@ software
 squid
 
 https://jimmysong.io/blog/understanding-iptables/
+
+crane
+crane-scheduler
+kubepi
+kubecube
+dashboard
+kubernetes
+cluster-autoscaler
+kubecube-webconsole
+kube-router
+koordinator
+juliorenner/scheduler-plugins
+vertical-pod-autoscaler
+AliyunContainerService/kubernetes-cronhpa-controller
+tkestack/cron-hpa
+Kube-state-metrics
+
+.baoyu-skills ppt image
