@@ -248,6 +248,6 @@ juliorenner/scheduler-plugins
 vertical-pod-autoscaler
 AliyunContainerService/kubernetes-cronhpa-controller
 tkestack/cron-hpa
-Kube-state-metrics
+Kube-state-metrics add si
 
 .baoyu-skills ppt image
