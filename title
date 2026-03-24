@@ -262,3 +262,7 @@ SGLang 官方支持多机分布式部署，请参见 Multi-Node Deployment。
 https://docs.sglang.ai/references/multi_node_deployment/multi_node.html
 Ollama 官方不支持多机分布式部署，但 llama.cpp 提供了一些支持，请参见 issue Llama.cpp now supports distributed inference across multiple machines. （实现门槛较高）。
 
+ray
+kubeflow
+Arena
+lws
