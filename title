@@ -277,3 +277,5 @@ NFS ganesha
 	
 GPU型HCCPNV5x 售罄 查看推荐实例 HCCPNV5x.96XLARGE2304	384核	2304GiB	2.6GHz/3.6GHz	 AMD EPYC Genoa(2.6GHz/3.6GHz) 100Gbps	4500万PPS	1个可用区8 * NVIDIA H800
 
+sso
+https://github.com/apereo/cas
