@@ -279,3 +279,5 @@ GPU型HCCPNV5x 售罄 查看推荐实例 HCCPNV5x.96XLARGE2304	384核	2304GiB	2.
 
 sso
 https://github.com/apereo/cas
+
+ strace -f -tt -T -e trace=fsync,fdatasync -p 4580
